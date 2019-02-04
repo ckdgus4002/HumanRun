@@ -1,4 +1,4 @@
-# HumanRun
-University graduation project. This is my second project made by Unity3D.
+# 휴먼런!
+대학 졸업 프로젝트입니다. 유니티3D로 만든 제 두 번째 프로젝트입니다.
 
-Wiki를 확인해주세요.
+S/W 설명은 Wiki를 확인해주세요.
